@@ -1,0 +1,188 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-color: #f0f8ff;
+}
+.main{
+    margin-left: 220px;
+    margin-top: 70px;
+}
+.heading{
+    font-size: 40px;
+    font-family: 'Roboto Black';
+}
+.headp{
+    font-size: 80px;
+    position: relative;
+    top:20px;
+}
+.heading2{
+    position: relative;
+    top:50px;
+}
+.para2{
+    font-size: 80px;
+    position:relative;
+    top:40px;
+}
+.heading3{
+    position: relative;
+    top:45px;
+}
+.para3{
+    font-size: 80px;
+    position: relative;
+    top:20px;
+
+}
+.heading4{
+    position: relative;
+    top:50px;
+}
+.heading5{
+    position: relative;
+    top:100px;
+}
+.para4{
+    font-size: 80px;
+    position: relative;
+    top:50px;
+
+}
+.heading6{
+    position: relative;
+    top:100px;
+}
+.heading7{
+    position: relative;
+    top:180px;
+}
+button{
+    position: relative;
+    top:350px;
+    height: 80px;
+    width:250px;
+    background-color: #000;
+    color:#fff;
+    font-size: 20px;
+}
+.img1{
+    position:absolute;
+    left:1300px ;
+    top: 200px;
+    height:550px;width:700px;
+}
+.img2{
+    position:absolute;
+    left:1300px ;
+    top: 750px;
+    height:550px;width:700px;
+
+}
+.img3{
+position:absolute;
+    left:1300px ;
+    top: 1300px;
+    height:550px;width:700px;}
+.img4{
+    position:absolute;
+    left:1300px ;
+    top: 1850px;
+    height:550px;width:700px;
+}
+.heading:hover{
+    color:gray;
+    position: relative;
+    right:3px;
+    
+}
+.headp:hover{
+    font-size: 85px;
+    
+}
+.heading2:hover{
+    color:gray;
+}
+.para2:hover{
+    font-size: 85px;
+    
+}
+.heading3:hover{
+    color:gray;
+}
+.para3:hover{
+    font-size: 85px;
+    
+}
+.heading5:hover{
+    color:gray;
+}
+.para4:hover{
+    font-size: 85px;
+}
+.heading7:hover{
+    color:gray;
+}
+.hori1{
+    position:absolute;
+    left:220px;
+    top:400px;
+    width:650px;
+    
+    
+
+}
+
+
+.hori1 {
+    display: none;
+  }
+  .headp:hover +.hori1 {
+    display: block;
+  }
+  .hori2{
+    width:650px;
+    position:relative;
+    right:700px;
+  }
+  .hori2 {
+    display: none;
+  }
+  .para2:hover +.hori2 {
+    display: block;
+  }
+  .hori3{
+    width:650px;
+    position:relative;
+    right:700px;
+  }
+  .hori3 {
+    display: none;
+  }
+  .para3:hover +.hori3 {
+    display: block;
+  }
+  .img1:hover{
+    transform: rotateY(180deg);
+    transition:transform 1.5s ease;
+  }
+  .img2:hover{
+    transform: rotateY(180deg);
+    transition:transform 1.5s ease;
+  }
+  
+  .img3:hover{
+    transform: rotateY(180deg);
+    transition:transform 1.5s ease;
+  }
+  
+  .img4:hover{
+    transform: rotateY(180deg);
+    transition:transform 1.5s ease;
+  }
+  button:hover{
+    background-color: gray;
+  }
+
+  
+  
