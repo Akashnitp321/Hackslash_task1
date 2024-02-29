@@ -1,0 +1,705 @@
+body{
+    
+    background-color: #F5E8DD;
+
+}
+.heading{
+    text-align: center;
+    font-size: 60px;
+    margin:40px;
+    
+}
+.intro{
+    font-size: 30px;
+    margin:30px;
+    
+
+}
+h4{
+    font-size: 45px;
+    margin:30px;
+}
+.tajh{
+    margin:40px;
+    color:blue;
+}
+.taji{
+    margin:40px;
+}
+.tajp{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.khah{
+    margin:40px;
+    color:blue;
+
+}
+.khai{
+    margin: 40px;
+}
+.khap{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+
+}
+.hamh{
+    margin:40px;
+    color:blue;
+
+}
+.hami{
+    margin: 40px;
+}
+.hamp{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+
+}
+.ajanh{
+    margin:40px;
+    color:blue;
+
+}
+.ajani{
+    margin: 40px;
+    width: 1024px;
+    height:683px;
+}
+.ajanp{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+
+}
+.ellh{
+    margin:40px;
+    color:blue;
+
+}
+.elli{
+    margin: 40px;
+}
+.ellp{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.bodh{
+    margin:40px;
+    color:blue;
+
+}
+.bodi{
+    margin: 40px;
+}
+.bodp{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.sunh{
+    margin:40px;
+    color:blue;
+
+}
+.suni{
+    margin: 40px;
+}
+.sunp{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.redh{
+    margin:40px;
+    color:blue;
+
+}
+.redi{
+    margin: 40px;
+    position: relative;
+    bottom:200px;
+}
+.redp{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.sanh{
+    margin:40px;
+    color:blue;
+
+}
+.sani{
+    margin: 40px;
+}
+.sanp{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.choh{
+    margin:40px;
+    color:blue;
+
+}
+.choi{
+    margin: 40px;
+}
+.chop{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.kazh{
+    margin:40px;
+    color:blue;
+
+}
+.kazi{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+}
+.kazp{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.mahah{
+    margin:40px;
+    color:blue;
+
+}
+.mahai{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+
+}
+.mahap{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.sunderh{
+    margin:40px;
+    color:blue;
+
+}
+.sunderi{
+    margin: 40px;
+}
+.sunderp{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.humh{
+    margin:40px;
+    color:blue;
+
+}
+.humi{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+
+
+}
+.hump{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.janh{
+    margin:40px;
+    color:blue;
+
+}
+.jani{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+
+
+}
+.janp{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.agrah{
+    margin:40px;
+    color:blue;
+
+}
+.agrai{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+
+
+}
+.agrap{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.fateh{
+    margin:40px;
+    color:blue;
+
+}
+.fatei{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+
+
+}
+.fatep{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.ranih{
+    margin:40px;
+    color:blue;
+
+}
+.ranii{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+
+
+}
+.ranip{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.patth{
+    margin:40px;
+    color:blue;
+
+}
+.patti{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+
+
+}
+.pattp{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.eleh{
+    margin:40px;
+    color:blue;
+
+}
+.elei{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+
+
+}
+.elep{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.nalh{
+    margin:40px;
+    color:blue;
+
+}
+.nali{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+
+
+}
+.nalp{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.chah{
+    margin:40px;
+    color:blue;
+
+}
+.chai{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+
+
+}
+.chap{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.mouh{
+    margin:40px;
+    color:blue;
+
+}
+.moui{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+
+
+}
+.moup{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.quh{
+    margin:40px;
+    color:blue;
+
+}
+.qui{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+
+
+}
+.qup{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.chamh{
+    margin:40px;
+    color:blue;
+
+}
+.chami{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+
+
+}
+.champ{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.himh{
+    margin:40px;
+    color:blue;
+
+}
+.himi{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+
+
+}
+.himp{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+
+.rajh{
+    margin:40px;
+    color:blue;
+
+}
+.raji{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+
+
+}
+.rajp{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+
+.goah{
+    margin:40px;
+    color:blue;
+
+}
+.goai{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+
+
+}
+.goap{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.madh{
+    margin:40px;
+    color:blue;
+
+}
+.madi{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+
+
+}
+.madp{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.wilh{
+    margin:40px;
+    color:blue;
+
+}
+.wili{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+
+
+}
+.wilp{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+
+.keoh{
+    margin:40px;
+    color:blue;
+
+}
+.keoi{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+
+
+}
+.keop{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.nanh{
+    margin:40px;
+    color:blue;
+
+}
+.nani{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+
+
+}
+.nanp{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.ghah{
+    margin:40px;
+    color:blue;
+
+}
+.ghai{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+
+
+}
+.ghap{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.sikh{
+    margin:40px;
+    color:blue;
+
+}
+.siki{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+
+
+}
+.sikp{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.chanh{
+    margin:40px;
+    color:blue;
+
+}
+.chani{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+
+
+}
+.chanp{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.ahmh{
+    margin:40px;
+    color:blue;
+
+}
+.ahmi{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+
+
+}
+.ahmp{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.mumh{
+    margin:40px;
+    color:blue;
+
+}
+.mumi{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+
+
+}
+.mump{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.jaih{
+    margin:40px;
+    color:blue;
+
+}
+.jaii{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+
+
+}
+.jaip{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.kumh{
+    margin:40px;
+    color:blue;
+
+}
+.kumi{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+    position: relative;
+    bottom:80px;
+
+
+}
+.kump{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.cith{
+    margin:40px;
+    color:blue;
+
+}
+.citi{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+    
+
+}
+.citp{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.sanh{
+    margin:40px;
+    color:blue;
+
+}
+.sani{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+    
+
+}
+.sanp{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.hoyh{
+    margin:40px;
+    color:blue;
+
+}
+.hoyi{
+    margin: 40px;
+    height:683px;
+    width:1024px;
+    
+
+}
+.hoyp{
+    font-size: 30px;
+    position: relative;
+    top:20px;
+}
+.nav-link{
+    color: #fff;
+    font-size: 25px;
+    margin:40px;
+}
+
